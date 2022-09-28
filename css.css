@@ -4,3 +4,9 @@ p {
 a{
     color: blue;
 }
+body {
+    margin-right: 1000px;
+}
+p{
+    text-align: justify;
+}
